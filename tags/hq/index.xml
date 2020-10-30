@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hq on Jan Limpens</title>
+    <link>/tags/hq/</link>
+    <description>Recent content in hq on Jan Limpens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Mon, 26 Oct 2020 10:06:24 -0300</lastBuildDate><atom:link href="/tags/hq/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pepita fugindo de uma nova ameaça</title>
+      <link>/posts/pepita-fugindo-de-uma-nova-ameaca/</link>
+      <pubDate>Mon, 26 Oct 2020 10:06:24 -0300</pubDate>
+      
+      <guid>/posts/pepita-fugindo-de-uma-nova-ameaca/</guid>
+      <description>Original no site da Folha de S.Paulo</description>
+    </item>
+    
+    <item>
+      <title>Pepita continua fugindo dos dinossauros durante a quarentena</title>
+      <link>/posts/pepita-continua-fugindo-dos-dinossauros-durante-a-quarentena/</link>
+      <pubDate>Mon, 13 Jul 2020 15:13:09 +0000</pubDate>
+      
+      <guid>/posts/pepita-continua-fugindo-dos-dinossauros-durante-a-quarentena/</guid>
+      <description>Quadrão na Folha de S. Paulo, 13/07/2020.
+ </description>
+    </item>
+    
+  </channel>
+</rss>

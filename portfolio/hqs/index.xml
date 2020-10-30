@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Histórias em quadrinhos on Jan Limpens</title>
+    <link>/portfolio/hqs/</link>
+    <description>Recent content in Histórias em quadrinhos on Jan Limpens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/portfolio/hqs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quadrão</title>
+      <link>/portfolio/hqs/quadrao/</link>
+      <pubDate>Wed, 28 Oct 2020 17:37:35 -0300</pubDate>
+      
+      <guid>/portfolio/hqs/quadrao/</guid>
+      <description>Nas segundas feiras a Folha abre todo o espaço das tirinhas para um artista. Essas são as minhas contribuições retratando a atual situação brasileira num mundo paralelo, onde os dinossauros estão soltos.</description>
+    </item>
+    
+    <item>
+      <title>Historietas automáticas</title>
+      <link>/portfolio/hqs/automaton/</link>
+      <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/hqs/automaton/</guid>
+      <description>Projeto de quadrinhos a partir de uma seleção aletória de palavras predefinidas.</description>
+    </item>
+    
+    <item>
+      <title>Katze, Dame, Fly, Spion (Gato, Dama, Fly, Espião)</title>
+      <link>/portfolio/hqs/katze-dame-fly-spion/</link>
+      <pubDate>Tue, 23 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/hqs/katze-dame-fly-spion/</guid>
+      <description>Trabalho colaborativo com Peter Waldeck; um drama de espionagem envolvendo o inimitável Fantastical Fly do Otakoo Cartoon Saloon. Publicado na revista de quadrinhos austríaca &amp;ldquo;Tisch 14/Nt. 5&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>El Pablo vs El Diablo</title>
+      <link>/portfolio/hqs/el-pablo-vs-el-diablo/</link>
+      <pubDate>Thu, 04 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/hqs/el-pablo-vs-el-diablo/</guid>
+      <description>Serie de histórias em quadrinhos publicadas entre 2008 e 2009 na Folha de S.Paulo, no suplemento Folha Teens. Trabalho em parceria com o autor austríaco Peter Waldeck. Como as personagens do Otakoo Saloon Cartoon, El Pablo e El Diablo surgiram nas produções da Casa del Kung Fu, grupo de teatros e filmes de qual participei antes de 2001.</description>
+    </item>
+    
+    <item>
+      <title>Otakoo Saloon Cartoon</title>
+      <link>/portfolio/hqs/otakoo-saloon-cartoon/</link>
+      <pubDate>Sat, 04 Dec 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/hqs/otakoo-saloon-cartoon/</guid>
+      <description>Serie de quadrinhos publicada no site da TV austríaca estadual, ORF. Baseado nas personagens recorrentes nos teatros, sketches e filmes do grupo de performance vienense Casa del Kung Fu.</description>
+    </item>
+    
+  </channel>
+</rss>

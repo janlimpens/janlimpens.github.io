@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-10-28T17:37:35-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/portfolio/</loc>
+    <lastmod>2020-10-28T17:37:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/hqs/quadrao/</loc>
+    <lastmod>2020-10-28T17:37:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/folha-de-s.paulo/</loc>
+    <lastmod>2020-10-26T10:06:24-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hq/</loc>
+    <lastmod>2020-10-26T10:06:24-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/jornal/</loc>
+    <lastmod>2020-10-26T10:06:24-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/pepita-fugindo-de-uma-nova-ameaca/</loc>
+    <lastmod>2020-10-26T10:06:24-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-10-26T10:06:24-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-10-26T10:06:24-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contato/</loc>
+    <lastmod>2020-10-17T19:46:27-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/ilustracoes/folha-de-sao-paulo/</loc>
+    <lastmod>2020-10-16T11:27:46-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sobre/</loc>
+    <lastmod>2020-10-16T10:06:43-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/hqs/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/ilustracoes/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/livros/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/pepita-continua-fugindo-dos-dinossauros-durante-a-quarentena/</loc>
+    <lastmod>2020-07-13T15:16:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hist%C3%B3ria-em-quadrinhos/</loc>
+    <lastmod>2019-12-09T16:41:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/quadrao-91219/</loc>
+    <lastmod>2019-12-09T16:41:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/ilustracoes/retratos-revista-451/</loc>
+    <lastmod>2019-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/hq-quadrao-na-folha-de-sp-3092019/</loc>
+    <lastmod>2019-09-30T10:18:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ftd/</loc>
+    <lastmod>2019-09-03T09:46:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/illustration/</loc>
+    <lastmod>2019-09-03T09:46:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ilustra%C3%A7%C3%A3o/</loc>
+    <lastmod>2019-09-03T09:46:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/lan%C3%A7amento/</loc>
+    <lastmod>2019-09-03T09:46:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/livros/</loc>
+    <lastmod>2019-09-03T09:46:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/viagem-ao-ceu-por-monteiro-lobato/</loc>
+    <lastmod>2019-09-03T09:46:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/livros/viagem-ao-ceu-ftd/</loc>
+    <lastmod>2019-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/pepita-no-pais-das-maravilhas/</loc>
+    <lastmod>2019-08-28T13:40:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/livros/visitando-sonhos-estrela-cultural/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/hq-no-quadrao-da-folha-0818/</loc>
+    <lastmod>2018-08-06T12:18:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/hq-no-quadrao-da-folha-0718/</loc>
+    <lastmod>2018-08-06T11:20:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/o-mentalista/</loc>
+    <lastmod>2018-06-22T18:49:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/retratos-para-revista-quatro-cinco-um-451/</loc>
+    <lastmod>2019-05-28T17:14:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/revista/</loc>
+    <lastmod>2019-05-28T17:14:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/hq-no-quadrao-a-segunda/</loc>
+    <lastmod>2018-06-02T17:10:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/maconheiros-velhos-na-serafina/</loc>
+    <lastmod>2018-06-04T11:02:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/macron-tropical-na-ilustrissima/</loc>
+    <lastmod>2018-06-01T18:25:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/nova-hq-na-folha-de-spaulo/</loc>
+    <lastmod>2018-06-03T12:57:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/intervencao-militar-no-rio/</loc>
+    <lastmod>2018-06-02T19:47:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/bandeira-flor-telefone/</loc>
+    <lastmod>2018-02-09T13:33:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/livros/la-onde-os-problemas-desaparecem-schoolpicture/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/rato-cerebral-de-maca/</loc>
+    <lastmod>2017-12-09T10:56:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/pr%C3%AAmios/</loc>
+    <lastmod>2018-06-01T18:27:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/recebemos-mais-dois-altamente-recomendavel-da-fnlij/</loc>
+    <lastmod>2018-06-01T18:27:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sesi/</loc>
+    <lastmod>2018-06-01T18:27:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/hqs/automaton/</loc>
+    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/cachoeira-passaro-papel/</loc>
+    <lastmod>2017-11-22T10:32:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/aviao-nuvem-lampada/</loc>
+    <lastmod>2017-11-15T07:40:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/um-raivoso-na-contra-capa-da-ilustrissima/</loc>
+    <lastmod>2017-11-01T17:21:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/esbocos-para-um-romance-do-sec-xix/</loc>
+    <lastmod>2017-11-01T14:46:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/editora-do-brasil/</loc>
+    <lastmod>2017-11-01T14:42:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/lancamento-meu-planeta-minha-casa/</loc>
+    <lastmod>2017-11-01T14:42:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/livros/meu-planeta-minha-casa-editora-do-brasil/</loc>
+    <lastmod>2017-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/livros/o-caso-dos-caes-irados-globo-livros/</loc>
+    <lastmod>2017-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/ilustrissima-flip-paraty/</loc>
+    <lastmod>2017-11-01T17:30:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/uma-fada-veio-voando/</loc>
+    <lastmod>2017-11-01T16:00:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/editora-globo-o-caso-dos-caes-irados/</loc>
+    <lastmod>2017-11-01T15:30:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/globo-livros/</loc>
+    <lastmod>2017-11-01T15:30:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/ilustrissima-common-core/</loc>
+    <lastmod>2017-11-01T17:19:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/bob-dylan-tarantula-folha-de-spaulo-ilustrissima/</loc>
+    <lastmod>2017-11-01T14:53:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/esboco-para-um-projeto-de-poemas-inglesas/</loc>
+    <lastmod>2017-11-01T16:01:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/contracapa-ilustrissima-gorete/</loc>
+    <lastmod>2017-11-01T17:32:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/a-fonte-do-esquecimento-e-una-e-o-leao/</loc>
+    <lastmod>2016-11-24T15:15:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/livros/a-fonte-do-esquecimento-edelbra/</loc>
+    <lastmod>2016-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/infanto-juvenil/</loc>
+    <lastmod>2016-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/livro/</loc>
+    <lastmod>2016-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/livros/una-e-o-leao-sesi/</loc>
+    <lastmod>2016-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/novo-livro-uma-amizade-de-ouro-na-editora-ftd/</loc>
+    <lastmod>2016-06-23T18:49:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/hqs/katze-dame-fly-spion/</loc>
+    <lastmod>2016-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/entramos-no-catalogo-internacional-da-feira-internacional-de-livros-infanto-juvenis-em-bologna-2016/</loc>
+    <lastmod>2017-11-01T17:34:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%C3%A1tica/</loc>
+    <lastmod>2017-11-01T17:34:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/novo-livro-o-caso-domino/</loc>
+    <lastmod>2016-02-23T12:05:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/ilustracoes/waldeck-the-weatherman/</loc>
+    <lastmod>2015-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/ilustrissima-o-garoto/</loc>
+    <lastmod>2016-01-28T20:02:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/novo-o-livro-imperdivel/</loc>
+    <lastmod>2016-01-28T20:00:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/livros/caso-domino-edelbra/</loc>
+    <lastmod>2015-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/livros/o-livro-imperdivel-atica/</loc>
+    <lastmod>2015-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/novo-livro-andarilhas/</loc>
+    <lastmod>2016-01-28T20:02:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/una-e-o-leao/</loc>
+    <lastmod>2017-11-07T15:38:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/ilustracoes/die-raeuber/</loc>
+    <lastmod>2014-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/ilustracoes/fantomas-ilustracoes-para-projecoes-multimidia/</loc>
+    <lastmod>2014-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/ilustracoes/guia-do-estudante/</loc>
+    <lastmod>2014-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/livros/o-jogo-dos-tesouros-edelbra/</loc>
+    <lastmod>2014-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/livros/os-sete-arcos-de-iris/</loc>
+    <lastmod>2014-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/marmita-no-espaco/</loc>
+    <lastmod>2015-04-27T17:54:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/ruy-goiaba-na-ilustrada-da-folha/</loc>
+    <lastmod>2015-04-27T17:55:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/familia-ss-para-a-ilustrissima/</loc>
+    <lastmod>2015-04-27T17:56:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/ilustracoes/veja/</loc>
+    <lastmod>2014-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/os-sete-arcos-da-iris/</loc>
+    <lastmod>2014-12-04T14:30:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/o-jogo-dos-tesouros/</loc>
+    <lastmod>2014-12-04T14:31:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/livros/andarilhas/</loc>
+    <lastmod>2013-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/ilustracoes/revista-cultura/</loc>
+    <lastmod>2012-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/livros/a-turma-do-infinito/</loc>
+    <lastmod>2010-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/livros/salvando-a-pele-atica/</loc>
+    <lastmod>2010-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/hqs/el-pablo-vs-el-diablo/</loc>
+    <lastmod>2008-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/livros/montanha-russa-cosacnaify/</loc>
+    <lastmod>2008-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/ilustracoes/borkenkaefer/</loc>
+    <lastmod>2006-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/livros/carapucas/</loc>
+    <lastmod>2006-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/livros/o-aleijado/</loc>
+    <lastmod>2006-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/livros/o-dia-em-que-felipe-sumiu-cosac-naify/</loc>
+    <lastmod>2006-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/ilustracoes/vip/</loc>
+    <lastmod>2006-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/ilustracoes/abril-corporate/</loc>
+    <lastmod>2005-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/hqs/otakoo-saloon-cartoon/</loc>
+    <lastmod>2004-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/ilustracoes/desenhos-de-conceito/</loc>
+    <lastmod>2003-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/ilustracoes/publicitario-ieditora/</loc>
+    <lastmod>2001-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+</urlset>
