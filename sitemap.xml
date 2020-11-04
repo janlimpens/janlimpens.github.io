@@ -334,13 +334,18 @@
   </url>
   
   <url>
+    <loc>/portfolio/livros/uma-amizade-de-ouro/</loc>
+    <lastmod>2016-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/portfolio/livros/una-e-o-leao-sesi/</loc>
     <lastmod>2016-09-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/novo-livro-uma-amizade-de-ouro-na-editora-ftd/</loc>
-    <lastmod>2016-06-23T18:49:22+00:00</lastmod>
+    <lastmod>2016-06-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -530,6 +535,10 @@
   
   <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/404/</loc>
   </url>
   
 </urlset>
